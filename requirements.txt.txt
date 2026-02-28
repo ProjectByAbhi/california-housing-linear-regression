@@ -1,0 +1,8 @@
+Require library need for this 
+ 
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
